@@ -1,0 +1,28 @@
+﻿Построение начато 14.06.2016 19:10:27.
+     1>Проект "C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\test_ferma\test_ferma\test_ferma.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\test_ferma.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         D:\Visual Studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\test_ferma.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test_ferma.cpp
+         test_ferma.cpp
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         D:\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\test_ferma\Debug\test_ferma.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test_ferma.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\test_ferma\Debug\test_ferma.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\test_ferma\Debug\test_ferma.lib" /MACHINE:X86 Debug\test_ferma.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\test_ferma.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\test_ferma.exe.embed.manifest" /manifest Debug\test_ferma.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         test_ferma.vcxproj -> C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\test_ferma\Debug\test_ferma.exe
+       FinalizeBuildStatus:
+         Файл "Debug\test_ferma.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\test_ferma.lastbuildstate".
+     1>Построение проекта "C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\test_ferma\test_ferma\test_ferma.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.76

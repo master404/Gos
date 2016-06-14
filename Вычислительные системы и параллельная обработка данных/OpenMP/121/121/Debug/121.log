@@ -1,0 +1,17 @@
+﻿Build started 19.09.2014 14:05:22.
+     1>Project "D:\303Тро\Параллельное программирование\121\121\121.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\121.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 121.cpp
+         121.cpp
+     1>d:\303тро\параллельное программирование\121\121\121.cpp(33): error C2059: syntax error : ';'
+     1>d:\303тро\параллельное программирование\121\121\121.cpp(33): error C2143: syntax error : missing ';' before ')'
+     1>d:\303тро\параллельное программирование\121\121\121.cpp(33): error C2143: syntax error : missing ';' before ')'
+     1>d:\303тро\параллельное программирование\121\121\121.cpp(34): error C2143: syntax error : missing ';' before '{'
+     1>d:\303тро\параллельное программирование\121\121\121.cpp(47): error C2143: syntax error : missing ';' before 'if'
+     1>Done Building Project "D:\303Тро\Параллельное программирование\121\121\121.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.70

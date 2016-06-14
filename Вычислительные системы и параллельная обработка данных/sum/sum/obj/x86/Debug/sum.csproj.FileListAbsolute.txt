@@ -1,0 +1,9 @@
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\bin\Debug\sum.exe
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\bin\Debug\sum.pdb
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\obj\x86\Debug\sum.exe
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\obj\x86\Debug\sum.pdb
+C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\obj\x86\Debug\sum.exe
+C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\obj\x86\Debug\sum.pdb
+C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\bin\Debug\sum.exe
+C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\bin\Debug\sum.pdb
+C:\Users\Home\Desktop\ГОСЫ\программы и проекты\Вычислительные системы и параллельная обработка данных\sum\sum\obj\x86\Debug\ResolveAssemblyReference.cache
