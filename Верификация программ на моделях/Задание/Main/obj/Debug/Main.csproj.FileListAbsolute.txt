@@ -1,0 +1,24 @@
+D:\403Trof\TestVSL3\Main\Main\bin\Debug\Main.exe.config
+D:\403Trof\TestVSL3\Main\Main\bin\Debug\Main.exe
+D:\403Trof\TestVSL3\Main\Main\bin\Debug\Main.pdb
+D:\403Trof\TestVSL3\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\403Trof\TestVSL3\Main\Main\obj\Debug\Main.exe
+D:\403Trof\TestVSL3\Main\Main\obj\Debug\Main.pdb
+G:\403Trof\TestVSL3\Main\Main\bin\Debug\Main.exe.config
+G:\403Trof\TestVSL3\Main\Main\obj\Debug\Main.exe
+G:\403Trof\TestVSL3\Main\Main\obj\Debug\Main.pdb
+G:\403Trof\TestVSL3\Main\Main\bin\Debug\Main.exe
+G:\403Trof\TestVSL3\Main\Main\bin\Debug\Main.pdb
+G:\403Trof\TestVSL3\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+F:\403Trof1\TestVSL3\Main\Main\bin\Debug\Main.exe.config
+F:\403Trof1\TestVSL3\Main\Main\obj\Debug\Main.exe
+F:\403Trof1\TestVSL3\Main\Main\obj\Debug\Main.pdb
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Main\Main\obj\Debug\Main.exe
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Main\Main\obj\Debug\Main.pdb
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Задание\Main\bin\Debug\Main.exe.config
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Задание\Main\obj\Debug\Main.exe
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Задание\Main\obj\Debug\Main.pdb
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Задание\Main\bin\Debug\Main.exe
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Задание\Main\bin\Debug\Main.pdb
+C:\Users\Павел\Desktop\Гос. Экзамен\Верификация программ на моделях\Задание\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
