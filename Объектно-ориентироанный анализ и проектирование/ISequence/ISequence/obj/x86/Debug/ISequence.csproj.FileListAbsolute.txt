@@ -1,0 +1,5 @@
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\ISequence\ISequence\bin\Debug\ISequence.exe
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\ISequence\ISequence\bin\Debug\ISequence.pdb
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\ISequence\ISequence\obj\x86\Debug\ISequence.exe
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\ISequence\ISequence\obj\x86\Debug\ISequence.pdb
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\ISequence\ISequence\obj\x86\Debug\ISequence.csprojResolveAssemblyReference.cache

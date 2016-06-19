@@ -1,0 +1,4 @@
+RewriteEngine Off 
+
+RewriteRule ^uhvn$ /a/uhvn.php
+RewriteRule ^uhtzb$ /a/uhtzb.php

@@ -1,0 +1,4 @@
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\Complex_class\Complex_class\bin\Debug\Complex_class.exe
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\Complex_class\Complex_class\bin\Debug\Complex_class.pdb
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\Complex_class\Complex_class\obj\x86\Debug\Complex_class.exe
+C:\Users\Админ\Desktop\ГОСЫ\программы и проекты\Объектно-ориентироанный анализ и проектирование\Complex_class\Complex_class\obj\x86\Debug\Complex_class.pdb
